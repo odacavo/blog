@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          odacavo
+description:    "odacavo blog"
 url:            "https://test.com"
 
 # Google Analytics
@@ -8,9 +8,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         odacavo
+  url:          https://test.com
+  email:        odacavo404@gmail.com
 
 # Build settings
 markdown:       kramdown
